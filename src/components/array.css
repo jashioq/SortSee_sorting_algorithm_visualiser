@@ -1,0 +1,15 @@
+.array-container {
+    position: fixed;
+    bottom: 0;
+    left: 1%;
+    width: 98%;
+    /* border: 3px solid green; */
+}
+
+.array-bar {
+   /* width: 0.8%; */
+    background-color: aquamarine;
+    display: inline-block;
+    /* margin: 0 0.1%; */
+}
+
