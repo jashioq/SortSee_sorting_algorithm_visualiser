@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SortSee_sorting_algorithm_visualiser/static/css/main.37127ef2.css",
+    "main.js": "/SortSee_sorting_algorithm_visualiser/static/js/main.49114785.js",
+    "static/js/787.f3f8d66e.chunk.js": "/SortSee_sorting_algorithm_visualiser/static/js/787.f3f8d66e.chunk.js",
+    "index.html": "/SortSee_sorting_algorithm_visualiser/index.html",
+    "main.37127ef2.css.map": "/SortSee_sorting_algorithm_visualiser/static/css/main.37127ef2.css.map",
+    "main.49114785.js.map": "/SortSee_sorting_algorithm_visualiser/static/js/main.49114785.js.map",
+    "787.f3f8d66e.chunk.js.map": "/SortSee_sorting_algorithm_visualiser/static/js/787.f3f8d66e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37127ef2.css",
+    "static/js/main.49114785.js"
+  ]
+}
