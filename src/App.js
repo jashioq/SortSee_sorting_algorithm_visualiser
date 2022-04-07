@@ -207,7 +207,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <button id='reset' onClick={generateNewArray}>reset array</button>
+        <button id='reset' onClick={generateNewArray}>Reset array</button>
         <div id='label1' className='labels'>
           <input value={arraySize} onChange={handleSizeChange} type={'range'} name='arraySize' min='10' max='350' step='10' />  
           <label htmlFor='arraySize'>Sample size {arraySize}</label>
